@@ -46,7 +46,7 @@ Through this project, the following skills were developed:
 
 You can view the published Power BI report and explore the interactive dashboards through the following link:
 
-[Business Insights 360 Dashboard]([<your-dashboard-link>](https://app.powerbi.com/view?r=eyJrIjoiNDhlNzIxNWEtNjM2My00ZmNhLWI5ZDEtNjQ2NWJmNzQyMjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDhlNzIxNWEtNjM2My00ZmNhLWI5ZDEtNjQ2NWJmNzQyMjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
 ## Contributing
