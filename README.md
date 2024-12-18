@@ -52,3 +52,7 @@ You can view the published Power BI report and explore the interactive dashboard
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
+
+## Acknowledgments
+
+Gratitude to Hemanand Vadivel and Dhaval Patel for their guidance. This project was completed as part of the Power BI course by CodeBasis.
